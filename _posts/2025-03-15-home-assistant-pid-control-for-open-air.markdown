@@ -5,7 +5,7 @@ date:   2025-03-15 14:10:28 +0100
 categories: OpenAIR Mechanical-Ventilation
 ---
 
-PID Controller implementatie
+PID Controller implementatie v1
 - Aanmaken van helpers
     - Aanmaken van input_numbers -> Uitleggen dat het handmatig kan via configuration.yaml of via Settings -> Devices & Services -> Helpers -> Create Helper
     - Gebruik maken van PID controller van [https://github.com/soloam/ha-pid-controller](https://github.com/soloam/ha-pid-controller)
